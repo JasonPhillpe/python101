@@ -403,3 +403,5 @@ Materiały
 7. http://www.checkio.org
 8. http://www.codecademy.com
 9. https://www.coursera.org
+10. https://pynative.com/python-input-function-get-user-input/
+
